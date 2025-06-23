@@ -30,6 +30,6 @@ I’m a new graduate with about 1 year of frontend development experience. Along
 
 <a href="http://www.github.com/RecepBorekci"><img src="https://github-readme-stats.vercel.app/api?username=RecepBorekci&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&show_icons=true" alt="RecepBorekci's GitHub stats" /></a>
 
-<a href="http://www.github.com/RecepBorekci"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RecepBorekci&stroke=ffffff&background=000000&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://www.github.com/RecepBorekci"><img src="https://streak-stats.demolab.com/?user=RecepBorekci&stroke=ffffff&background=000000&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" /></a>
 
 <a href="https://github.com/RecepBorekci" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RecepBorekci&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
